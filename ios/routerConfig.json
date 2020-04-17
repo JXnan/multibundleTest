@@ -1,0 +1,11 @@
+{
+    "home": {
+        "mainBundlePath": "标记用 无具体值",
+        "downloadUrl": "https://yuelvhui.oss-cn-beijing.aliyuncs.com/123.zip",
+        "localCachePath": "标记用 无具体值",
+        "source": "downloadUrl",
+        "version": "1",
+        "bundleName": "index.ios.bundle",
+        "defaultModuleName": "multibundleTest"
+    }
+}

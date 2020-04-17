@@ -1,0 +1,50 @@
+[
+    {
+        "id": 100000,
+        "path": "index.js"
+    },
+    {
+        "id": 100001,
+        "path": "App.js"
+    },
+    {
+        "id": 100002,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/index.js"
+    },
+    {
+        "id": 100003,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/Header.js"
+    },
+    {
+        "id": 100004,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/Colors.js"
+    },
+    {
+        "id": 100005,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/logo.png"
+    },
+    {
+        "id": 100006,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/LearnMoreLinks.js"
+    },
+    {
+        "id": 100007,
+        "path": "node_modules/react-native/Libraries/Core/Devtools/openURLInBrowser.js"
+    },
+    {
+        "id": 100008,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/DebugInstructions.js"
+    },
+    {
+        "id": 100009,
+        "path": "node_modules/react-native/Libraries/NewAppScreen/components/ReloadInstructions.js"
+    },
+    {
+        "id": 100010,
+        "path": "app.json"
+    },
+    {
+        "id": 100011,
+        "path": "res/image/wrnt.png"
+    }
+]
